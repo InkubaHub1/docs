@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Lawatan Arnold Bily Karambiri",
+    "role": " Team lead/Teachinal lead",
+    "photo": "",
+    "profile_card_link": "https://www.linkedIn.com/in/hackers01",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedIn.com/in/hackers01",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Arnold-Ka",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Yempabou Dieudonné BANGOU",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "https://www.linkedin.com/in/yempabou-dieudonné-bangou-b3464a2b3/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yempabou-dieudonné-bangou-b3464a2b3/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/dieudo839",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Basséri Arcelia BANHORO",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "https://www.linkedin.com/in/arcélia-basséri-banhoro-95b382369/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/arcélia-basséri-banhoro-95b382369/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ArceLemon",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Ahmadou Nouridine TANOU",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "https://www.linkedin.com/in/nouridine-tanou-492bb2337/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nouridine-tanou-492bb2337/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/tanou-web",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Adam Zayd Cheldy KONATE",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "#",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "#",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  }
+]
