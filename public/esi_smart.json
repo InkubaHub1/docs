@@ -72,15 +72,20 @@
     ]
   },
   {
-    "name": "Adam Zayd Cheldy KONATE",
+    "name": "Théodore SIENOU",
     "role": "Team member",
     "photo": "",
     "profile_card_link": "#",
     "links": [
       {
         "label": "LinkedIn",
-        "url": "#",
+        "url": "https://www.linkedin.com/in/theodore-sienou-388262307/",
         "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Theodore-SIENOU",
+        "icon": "FaGithub"
       }
     ]
   }
