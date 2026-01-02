@@ -50,19 +50,22 @@ Composez un **code USSD**, sélectionnez l’opération, et retirez votre crypto
 **Architecture simplifiée :**
 
 ```
+L'image suivante montre l'architecture simplifiée de notre solution :
 
-[Utilisateur BF] → [USSD Gateway] → [Serveur Crypto] → [Portefeuille]
-↓                 ↓                 ↓
-Menu USSD        Traitement          Retrait validé
-sécurisé
+<img
+  src="/0xTeam/h.png"
+  alt="Architecture"
+  style={{ display: "block", margin: "1rem auto", maxWidth: "400px", width: "100%" }}
+/>
+
 
 ```
 
 **Stack technique :**  
-- USSD Gateway : Africa’s Talking API  
+- USSD Gateway : Africa’s Talking 
 - Backend : Node.js + Express  
 - Blockchain : Blockfrost + Lucid-cardano  
-- SMS : Twilio ou fournisseur local  
+- SMS : Africa's Talking
 
 **Innovation technique :**  
 - Les retraits se font sans Internet, directement via USSD  
